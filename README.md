@@ -11,8 +11,8 @@ proper title elemets.
 
 
 ## Built with 
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://github.com/Mikekuney/Horiseon.io
