@@ -15,7 +15,7 @@
 * CSS
 
 ## Website
-https://mikekuney.githubio/Horiseon/
+https://Mikekuney.github.io/Horiseon/
 
 ## Contributions
 Made with ❤️ by Mike Kuney
